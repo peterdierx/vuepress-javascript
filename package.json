@@ -1,0 +1,14 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "node_modules/.bin/vuepress dev",
+    "build": "node_modules/.bin/vuepress build"
+  },
+  "devDependencies": {
+    "vuepress": "^1.0.3"
+  }
+}
